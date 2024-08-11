@@ -1,2 +1,2 @@
-source_dir: svs
-dest_dir: de-identified
+source_dir: path/to/your/svs/files
+dest_dir: path/to/save/your/de-identified/images
