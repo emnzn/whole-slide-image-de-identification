@@ -22,4 +22,4 @@ python convert.py
 ```
 
 ## To-Do:
-[ ] Add support for other source image formats.
+- [ ] Add support for other source image formats.
