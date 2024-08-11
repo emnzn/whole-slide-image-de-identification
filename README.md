@@ -1,5 +1,7 @@
 # De-identification Script for Whole Slide Images
 
+**NOTE:** Can only work for *.svs* whole slide image formats at the moment.
+
 ## Installation
 ```bash
 pip install -r requirements.txt
@@ -18,3 +20,6 @@ dest_dir: path/to/save/your/de-identified/images
 ```bash
 python convert.py
 ```
+
+## To-Do:
+[ ] Add support for other source image formats.
